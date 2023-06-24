@@ -4,7 +4,8 @@ If you have no subscription and visit the webinterface it will popup a no-subscr
 This Script will disable this popup and remove the warnings in the repository overview.
 
 It works for: 
-* Proxmox Virtual Environment short PVE
+* Proxmox Virtual Environment short PVE  
+  PVE 6, 7 and 8
 * Proxmox Backup Server short PBS
 * Proxmox Mail Gateway Not Tested
 
