@@ -18,6 +18,6 @@ After:
 
 Install:
 ```bash
-wget -O /etc/apt/apt.conf.d/pve-no-subscription-message https://raw.githubusercontent.com/thethink3r/Proxmox-remove-no-subscription-message/main/
+wget -O /etc/apt/apt.conf.d/pve-no-subscription-message https://raw.githubusercontent.com/thethink3r/Proxmox-remove-no-subscription-message/main/pve-no-subscription-message
 apt install --reinstall proxmox-widget-toolkit
 ```
